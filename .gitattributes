@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.glsl linguist-language=GLSL
+*.vert linguist-language=GLSL
+*.frag linguist-language=GLSL
+*.comp linguist-language=GLSL
+
+*.py linguist-detectable=true
+*.glsl linguist-detectable=false
+*.vert linguist-detectable=false
+*.frag linguist-detectable=false
+*.comp linguist-detectable=false
