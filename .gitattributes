@@ -11,3 +11,4 @@
 *.vsh linguist-detectable=false
 *.fsh linguist-detectable=false
 
+modules/shader/special_sticker/* linguist-vendored
