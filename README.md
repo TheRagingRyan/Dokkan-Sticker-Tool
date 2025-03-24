@@ -1,12 +1,11 @@
 # Dokkan Sticker Tool
  A tool that lets you modify/create stickers in the game Dokkan Battle.
 
----
-## Python Version 3.13
+## Python Version
 
 [Download Python 3.13.0](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)  
-Make sure to add to **PATH** as always.
----
+Make sure to add to **PATH** as always.  
+
 ## Dependencies
 - ***numpy***  
 - ***pillow***  
@@ -16,15 +15,13 @@ Make sure to add to **PATH** as always.
 - ***PySide6_Addons***  
 - ***PySide6_Essentials*** 
 
-Also located in **requirements.txt** with the appropriate versions used.
 
----
+
 ## How to Run
 
-- Run **Install Dependencies.bat** first to install the previously mentioned dependencies.  
-- Then **Run.bat**
-- Done
----
+- Run **"Install Dependencies.bat"** first to install the previously mentioned dependencies.  
+- **Run.bat**
+
 ## Preview
 - **Files used in the previews are available in *"character\card"***
 - **Open File expects the same structure as the game. If it's a modded card, makes sure the files are named appropriately.**  
@@ -34,7 +31,7 @@ Also located in **requirements.txt** with the appropriate versions used.
 - **Or even just load the mask, and it will display the effects of everything.**  
 ![3](https://github.com/user-attachments/assets/bd21333f-2730-482d-90ae-06eaa83f0aad)
 
----
+
 ## Notable Mentions
 - Coordinate mode needs to be enabled in the specific effect's tab in order to move the effect.
 - Coordinate mode gets turned off by default when changing effect tabs; in order to prevent unintentionally moving an effect.
@@ -46,3 +43,5 @@ Also located in **requirements.txt** with the appropriate versions used.
 | Top Right       | -1.0     | 0.0      |
 | Bottom Left     | 0.0      | -1.0     |
 | Bottom Right    | -1.0     | -1.0     |
+
+##### If you have any questions feel free to message me on discord: "theragingryan"
