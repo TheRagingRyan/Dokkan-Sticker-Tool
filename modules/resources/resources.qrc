@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>logo.ico</file>
+  </qresource>
+  <qresource prefix="Images">
+    <file>modified_images/new_border.png</file>
+    <file>modified_images/slider_fill.png</file>
+    <file>modified_images/slider_bar.png</file>
+    <file>modified_images/slider_handle.png</file>
+    <file>modified_images/com_btn_radio_off.png</file>
+    <file>modified_images/color_button.png</file>
+    <file>modified_images/com_btn_radio_on.png</file>
+    <file>modified_images/Background.png</file>
+    <file>modified_images/blue_effect_off.png</file>
+    <file>modified_images/blue_effect_on.png</file>
+    <file>modified_images/Button_off.png</file>
+    <file>modified_images/green_effect_off.png</file>
+    <file>modified_images/green_effect_on.png</file>
+    <file>modified_images/red_effect_off.png</file>
+    <file>modified_images/red_effect_on.png</file>
+  </qresource>
+</RCC>
