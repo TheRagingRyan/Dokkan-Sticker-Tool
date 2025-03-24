@@ -28,11 +28,11 @@ Also located in **requirements.txt** with the appropriate versions used.
 ## Preview
 - **Files used in the previews are available in *"character\card"***
 - **Open File expects the same structure as the game. If it's a modded card, makes sure the files are named appropriately.**  
-![Loading Files](https://cdn.discordapp.com/attachments/334448718067662860/1353793248421744670/pythonw_z2qX3u8oh0.gif?ex=67e2f1b6&is=67e1a036&hm=44da98468fafae0512999747f534b525c233d5fb2fae12efbf1d44c583401c4c&)
+![1](https://github.com/user-attachments/assets/dc85cf2c-3347-4f2d-89d4-fdafbd661042)
 - **You can load a singular color mask to preview the effect of said mask color (as shown below).**  
-![Color Mask Effect](https://cdn.discordapp.com/attachments/334448718067662860/1353795216020078662/pythonw_o790nXEhFu.gif?ex=67e2f38b&is=67e1a20b&hm=f997335a51ede656d6144bf0bcc5db8149aeb7243079ab980c248b6fe7cfc0a9&)  
+![2](https://github.com/user-attachments/assets/c5b06443-f0ff-41b2-9fa8-9a3be4fd235b)
 - **Or even just load the mask, and it will display the effects of everything.**  
-![Sticker Mask Effect](https://cdn.discordapp.com/attachments/334448718067662860/1353796365037338664/pythonw_6xWCGY6mm1.gif?ex=67e2f49d&is=67e1a31d&hm=9c25e30bab60fea0b010beb93f2afa72ad055ed83389741751fdb36f6df65200&)
+![3](https://github.com/user-attachments/assets/bd21333f-2730-482d-90ae-06eaa83f0aad)
 
 ---
 ## Notable Mentions
