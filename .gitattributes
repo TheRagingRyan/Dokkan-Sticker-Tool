@@ -12,3 +12,4 @@
 *.fsh linguist-detectable=false
 
 modules/shader/special_sticker/* linguist-vendored
+".bat linguist-vendored
