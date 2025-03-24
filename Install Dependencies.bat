@@ -8,7 +8,6 @@ if %errorlevel% neq 0 (
     exit /b
 )
 
-:: Upgrade pip and install requirements
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 
