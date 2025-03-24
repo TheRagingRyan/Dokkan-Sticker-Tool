@@ -2,12 +2,12 @@
 * text=auto
 
 *.glsl linguist-language=GLSL
-*.vert linguist-language=GLSL
-*.frag linguist-language=GLSL
-*.comp linguist-language=GLSL
+*.vsh linguist-language=GLSL
+*.fsh linguist-language=GLSL
+
 
 *.py linguist-detectable=true
 *.glsl linguist-detectable=false
-*.vert linguist-detectable=false
-*.frag linguist-detectable=false
-*.comp linguist-detectable=false
+*.vsh linguist-detectable=false
+*.fsh linguist-detectable=false
+
