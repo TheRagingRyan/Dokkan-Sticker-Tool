@@ -1,2 +1,4 @@
 @echo off
-start "" pythonw.exe main.py
+python -m pip install -r requirements.txt
+python main.py
+pause
