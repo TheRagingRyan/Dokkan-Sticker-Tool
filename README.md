@@ -1,5 +1,5 @@
 # Dokkan Sticker Tool
- A tool that lets you modify/create stickers in the game Dokkan Battle.
+ A tool that lets you modify/create stickers in the game Dokkan Battle.  
  (Currently bugged on non Nvidia Cards, will fix soon)
 
 ## Python Version
