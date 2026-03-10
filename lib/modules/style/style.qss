@@ -1,0 +1,337 @@
+QMainWindow{
+background-color: gray;
+border-radius: 10px 10px 10px 10px;
+}
+
+QComboBox{
+border-radius: 8px 8px 0px 0px;
+}
+
+QLabel{
+color: white;
+font-family: AkazukinPop;
+}
+
+QFrame{
+background: transparent;
+}
+
+/* Red Section*/
+#pushButton_texture_red{
+background: transparent;
+}
+
+#frame_stacked_red{
+background-color: transparent;
+}
+
+#stackedWidget_controlsRed{
+background-image: url(:/Images/modified_images/new_border.png);
+background-color: transparent;
+}
+
+#line_top_red{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+#line_middle_red{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+
+#pushButton_red{
+background-image: url(:/Images/modified_images/red_effect_on.png);
+background-color: transparent;
+color: white;
+font-family: AkazukinPop;
+padding: 5px;
+text-align: left;
+border-top-left-radius: 17px;
+border-bottom-left-radius: 17px;
+text-align: center;
+}
+
+#stackedWidget_controlsRed QSlider::handle:horizontal{
+background: transparent;  /* Handle color */
+border-radius: 5px;  /* Make the handle circular */
+margin: 0px 0;
+width: 15px;
+height: 41px;
+background-image: url(:/Images/modified_images/slider_handle.png);
+}
+
+#stackedWidget_controlsRed QSlider::groove:horizontal{
+background-image: url(:/Images/modified_images/slider_bar.png);
+}
+
+#stackedWidget_controlsRed QSlider::sub-page:horizontal{
+border-image: url(:/Images/modified_images/slider_fill.png) -0 5 -9 0 stretch stretch;;
+margin: 9px 2px;
+}
+
+
+#pushButton_coordType_polar_red{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_coordType_cartesian_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_addition_red{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_subtraction_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_multiplication_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_replace_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_distortion_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_color_red{
+background-image: url(:/Images/modified_images/color_button.png);
+border-radius: 15px;
+}
+
+#pushButton_coord_red{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px;
+}
+
+/* Green Section*/
+#pushButton_texture_green{
+background: transparent;
+}
+
+#frame_stacked_green{
+background-color: transparent;
+}
+
+#stackedWidget_controlsGreen{
+background-image: url(:/Images/modified_images/new_border.png);
+background-color: transparent;
+}
+
+#line_top_green{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+#line_middle_green{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+#pushButton_green{
+background-image: url(:/Images/modified_images/green_effect_off.png);
+background-color: transparent;
+color: rgba(255, 255, 255, 150);
+font-family: AkazukinPop;
+padding: 5px;
+text-align: left;
+border-top-left-radius: 17px;
+border-bottom-left-radius: 17px;
+text-align: center;
+}
+
+#stackedWidget_controlsGreen QSlider::handle:horizontal{
+background: transparent;  /* Handle color */
+border-radius: 5px;  /* Make the handle circular */
+margin: 0px 0;
+width: 15px;
+height: 41px;
+background-image: url(:/Images/modified_images/slider_handle.png);
+}
+
+#stackedWidget_controlsGreen QSlider::groove:horizontal{
+background-image: url(:/Images/modified_images/slider_bar.png);
+}
+
+#stackedWidget_controlsGreen QSlider::sub-page:horizontal{
+border-image: url(:/Images/modified_images/slider_fill.png) -0 5 -9 0 stretch stretch;;
+margin: 9px 2px;
+}
+
+
+#pushButton_coordType_polar_green{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_coordType_cartesian_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_addition_green{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_subtraction_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_multiplication_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_replace_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_distortion_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_color_green{
+background-image: url(:/Images/modified_images/color_button.png);
+border-radius: 15px;
+}
+
+#pushButton_coord_green{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px;
+}
+/* Blue Section*/
+#pushButton_texture_blue{
+background: transparent;
+}
+
+#frame_stacked_blue{
+background-color: transparent;
+}
+
+#stackedWidget_controlsBlue{
+background-image: url(:/Images/modified_images/new_border.png);
+background-color: transparent;
+}
+
+#line_top_blue{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+#line_middle_blue{
+background: transparent;
+color: white;
+border: 1px solid white;
+}
+
+#pushButton_blue{
+background-image: url(:/Images/modified_images/blue_effect_off.png);
+background-color: transparent;
+color: rgba(255, 255, 255, 150);
+font-family: AkazukinPop;
+padding: 5px;
+text-align: left;
+border-top-left-radius: 17px;
+border-bottom-left-radius: 17px;
+text-align: center;
+}
+
+#stackedWidget_controlsBlue QSlider::handle:horizontal{
+background: transparent;  /* Handle color */
+border-radius: 5px;  /* Make the handle circular */
+margin: 0px 0;
+width: 15px;
+height: 41px;
+background-image: url(:/Images/modified_images/slider_handle.png);
+}
+
+#stackedWidget_controlsBlue QSlider::groove:horizontal{
+background-image: url(:/Images/modified_images/slider_bar.png);
+}
+
+#stackedWidget_controlsBlue QSlider::sub-page:horizontal{
+border-image: url(:/Images/modified_images/slider_fill.png) -0 5 -9 0 stretch stretch;;
+margin: 9px 2px;
+}
+
+
+#pushButton_coordType_polar_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_coordType_cartesian_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_addition_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_on.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_subtraction_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_multiplication_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_replace_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_blendType_distortion_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px
+}
+
+#pushButton_color_blue{
+background-image: url(:/Images/modified_images/color_button.png);
+border-radius: 15px;
+}
+
+#pushButton_coord_blue{
+background-image: url(:/Images/modified_images/com_btn_radio_off.png);
+border-radius: 15px;
+}
+
+/* ----------- */
+#centralwidget{
+background-image: url(:/Images/modified_images/Background.png);
+background-color: rgb(63, 63, 63);
+}
+
+#statusbar{
+background: rgb(255, 255, 255);
+}
+
+#menubar{
+background: rgb(255, 255, 255);
+}
