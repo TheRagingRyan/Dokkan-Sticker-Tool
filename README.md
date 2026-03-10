@@ -1,27 +1,6 @@
 # Dokkan Sticker Tool
  A tool that lets you modify/create stickers in the game Dokkan Battle.
 
-## Python Version
-
-[Download Python 3.13.0](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)  
-Make sure to add to **PATH** as always.  
-
-## Dependencies
-- ***numpy***  
-- ***pillow***  
-- ***pyglm***  
-- ***PyOpenGL***  
-- ***PySide6***  
-- ***PySide6_Addons***  
-- ***PySide6_Essentials*** 
-
-
-
-## How to Run
-
-- Run **"Install Dependencies.bat"** first to install the previously mentioned dependencies.  
-- **Run.bat**
-
 ## Preview
 - **Files used in the previews are available in *"character\card"***
 - **Open File expects the same structure as the game. If it's a modded card, makes sure the files are named appropriately.**  
